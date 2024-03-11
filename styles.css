@@ -1,0 +1,29 @@
+*{
+    background-color: #EFE7DD;
+}
+.menu{
+   font-size: 15px;
+    font-style: oblique;
+}
+.imagem{
+    background-image: url("Subtítulo.png");
+}
+.link{
+    font-size: 25px;
+    margin:20px;
+    
+    text-align: center;
+    padding-left: 5px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.navegacao {
+    text-align: center;
+}
+.slogan{
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.apresentacao{
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}
